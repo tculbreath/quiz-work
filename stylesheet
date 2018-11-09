@@ -1,0 +1,31 @@
+<style type="text/css"><!--
+a:link {
+ text-decoration:underline
+}
+a:visited {
+ text-decoration:underline
+}
+a:active {
+ text-decoration:underline
+}
+a:hover {
+ text-decoration:underline
+}
+body {
+ scrollbar-face-color:red; scrollbar-track-color:green; scrollbar-arrow-color:blue; scrollbar-shadow-color:red; scrollbar-dark-shadow-color:green; scrollbar-3dlight-color:blue; scrollbar-highlight-color:red
+}
+h1 {
+color:red; font-size:14px; font-weight:bold;
+}
+h2 {
+color:blue; font-size:12px; font-weight:normal; font-style:italic;
+}
+h3 {
+color:green; font-size:16px; font-weight:bold;
+}
+td {
+
+}
+--></style>
+<!-- Leave this in. This style code created by The PCman Website CSS Generator
+find this and more at: https://www.thepcmanwebsite.com  Copyright 2018-->
